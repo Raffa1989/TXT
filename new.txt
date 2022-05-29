@@ -1,0 +1,4 @@
+Name: Koneva Tatiana
+Age: 33
+Pets: one cat
+Salary: 150000 RUR
