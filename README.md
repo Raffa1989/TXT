@@ -5,6 +5,7 @@
 2. Клонировать репозиторий TXT на локальный компьютер.
 ```bash
 git clone <ссылка на репозиторий>  # в необходимом репозитории кликнуть справа на кнопку Code и скопировать HTTPS
+```
 3. Внутри локального TXT создать файл “new.txt”.
 ```bash 
 touch new.txt
@@ -31,7 +32,11 @@ Name: Koneva Tatiana
 Age: 33
 Pets: one cat
 Salary: 150000 RUR  
-# Жму ESC - :wq)
+```
+Для выхода с сохранением: 
+```bash
+ESC  
+:wq
 ```
 8. Отправить изменения на внешний репозиторий.
 ```bash
@@ -54,7 +59,12 @@ Serials: Scrubs
 Food: khinkali
 Season: winter
 Country: Japan 
-# Жму ESC - :wq)
+```
+Для выхода с сохранением: 
+```bash
+ESC  
+:wq
+```
 11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT
 ```bash
 touch sklls.txt 
@@ -65,7 +75,11 @@ Skills:
 GIT
 Terminal
 Testing
-# Жму ESC - :wq)
+```
+Для выхода с сохранением: 
+```bash
+ESC  
+:wq
 ```
 12. Сделать коммит в одну строку.
 ```bash
